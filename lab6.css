@@ -2,7 +2,7 @@ h1{
 							
    font-family:simplified arabic fixed;
 							
-   color:white;
+   color:black;
 							
    font-size:50px;
 							
@@ -10,7 +10,7 @@ h1{
 							
    border:solid;
 							
-   border-color:white;
+   border-color:black;
 							
   }
 					
@@ -32,7 +32,7 @@ p{
 							
    font-family:Arial,Sans-serif;
 							
-   color:blue;
+   color:black;
 							
    font-size:30px;
 							
@@ -43,7 +43,7 @@ p{
 
 p{
 
-   color:orange;
+   color:black;
 							
    font-family:Arial,Sans-serif;
 							
@@ -58,7 +58,7 @@ p{
 					
             font family: Arial,Sans-serif;
 					
-	    color:white;
+	    color:black;
 					
 	    font-size: 20px;
 					
@@ -70,6 +70,6 @@ p{
 					
 	    -webkit-column-rule-style: dotted;
 					
-            -webkit-column-rule-color: white;
+            -webkit-column-rule-color: black;
 							
            }
